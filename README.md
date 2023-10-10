@@ -1,11 +1,11 @@
-# Prashant Upadhyay Portfolio
+# Aman Choure Portfolio
 #Features
 
-- User can connect in different plateforms
+- Users can connect on different plateforms
 - User can download Resume
 - User can connect via Email
-- User can view my Github contributions
-- User can review my projects through live link and source code
+- User can view my GitHub contributions
+- Users can review my projects through live links and source code
 
 
 
@@ -16,14 +16,14 @@
 - CSS
 - JavaScript
 - VS code
-- Git & Github
+- Git & GitHub
 
-# Here you can see overview of my portfolio
+# Here you can see an overview of my portfolio
 
 <h2 align="center">
-  <img sec="https://github.com/Prashantomm/Prashantomm.github.io/assets/112774297/cc676fe2-7cf6-4793-9035-97f82606c965
+  <img sec="https://github.com/amanacr0358/amanacr0358.github.io/assets/112774297/cc676fe2-7cf6-4793-9035-97f82606c965
 " width="600px"/>
 </h2>
 
 # Contributer
-> Prashant Upadhyay([GitHub](https://github.com/Prashantomm))
+> Aman Choure([GitHub](https://github.com/amanacr0358))

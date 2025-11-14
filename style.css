@@ -328,7 +328,11 @@ section .title::after {
   color: #2253c8;
   background: none;
 }
-/* #resume-button-2,#resume-link-2{
+
+btn-resume {
+    margin-top: 30px;   /* increase value as needed */
+}
+/* #resume-button-2 {
   display: inline-block;
     background: rgba(82, 3, 82, 0.89);
     color: #fff;

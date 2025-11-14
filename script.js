@@ -9,9 +9,9 @@ $(document).ready(function () {
 
     // change name in navbar
     if (this.scrollY > 1000) {
-      document.querySelector(".logo a").innerHTML = "Aman Choure"
+      document.querySelector(".logo a").innerHTML = "Portfolio"
     } else {
-      document.querySelector(".logo a").innerHTML = "Aman Choure"
+      document.querySelector(".logo a").innerHTML = "Portfolio"
     }
 
     // scroll-up button show/hide script
